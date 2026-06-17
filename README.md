@@ -23,11 +23,13 @@ Enhanced dashboard storytelling and business interpretation.
 
 **🛠️ Technologies Used**
 
-SQL Server
-Power BI
-DAX
-Power Query
-Perplexity AI
+## Technologies Used
+
+- SQL Server
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Perplexity AI
 
 Conclusion
 
