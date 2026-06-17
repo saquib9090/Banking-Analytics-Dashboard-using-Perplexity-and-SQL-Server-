@@ -10,21 +10,16 @@ Enhanced dashboard storytelling and business interpretation.
 
 **DAX Measures**
 
-Account Count by Type
-Count of Transaction
-Customer Count by Gender
-Inactive Accounts
-Monthly Transaction Amount
-Monthly Transaction Balance
-Total Balance
+## Key Metrics
 
-<p align="center">
-  <img src="images/dashboard_page1.png" width="900">
-</p>
+- Account Count by Type
+- Count of Transactions
+- Customer Count by Gender
+- Inactive Accounts
+- Monthly Transaction Amount
+- Monthly Transaction Balance
+- Total Balance
 
-<p align="center">
-  <img src="images/dashboard_page2.png" width="900">
-</p>
 
 **🛠️ Technologies Used**
 
