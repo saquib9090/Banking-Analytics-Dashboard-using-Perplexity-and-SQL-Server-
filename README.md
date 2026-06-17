@@ -1,4 +1,4 @@
-**# Banking-Analytics-Dashboard-using-Perplexity-and-SQL-Server-**
+# Banking-Analytics-Dashboard-using-Perplexity-and-SQL-Server-
 
 This project was developed with the assistance of Perplexity AI for business analysis, KPI ideation, dashboard planning, reporting concepts, and documentation support. SQL Server, Power BI, data modeling, and DAX measure implementation were performed as part of the project development process.
 
@@ -17,6 +17,14 @@ Inactive Accounts
 Monthly Transaction Amount
 Monthly Transaction Balance
 Total Balance
+
+<p align="center">
+  <img src="images/dashboard_page1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="images/dashboard_page2.png" width="900">
+</p>
 
 **🛠️ Technologies Used**
 
